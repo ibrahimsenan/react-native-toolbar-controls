@@ -1,0 +1,23 @@
+{
+  "name": "react-native-toolbar-controls",
+  "version": "1.0.0",
+  "description": "react native toolbar with controls components support android and IOS, you can pass the props and dataset you need to get the view as you want it. It works on diffrent devices screens from 4 inch mobile screens to 10 inch screens, the example on landscape screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahimsenan/"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Ibrahim Senan \"ibrahim.senan@yahoo.com\"",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.55.4"
+  }
+}
