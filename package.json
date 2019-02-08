@@ -8,10 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibrahimsenan/"
+    "url": "https://github.com/ibrahimsenan/react-native-toolbar-controls"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+	"ios",
+	"android",
+	"toolBar",
+	"switch",
+	"segementControl",
+	"segement",
+	"controls",
+	"toolBar menu",
   ],
   "author": "Ibrahim Senan \"ibrahim.senan@yahoo.com\"",
   "license": "ISC",
