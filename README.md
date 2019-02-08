@@ -1,10 +1,12 @@
 # react-native-toolbar-controls
 react native toolbar with controls components support android and IOS, you can pass the props and dataset you need to get the view as you want it. It works on diffrent devices screens from 4 inch mobile screens to 10 inch screens, the example on landscape screen
 
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) is required to view Icons in the toolbar
 
 # ScreenShots
 
-![Alt text](/screenshots/toolbar.gif?raw=true "react-native-toolbar-controls")
+![screenshots1](/screenshots/toolbar.gif?raw=true "screenshots1")
+![screenshots2](/screenshots/toolbar2.gif?raw=true "screenshots2")
 
 # Installation
 ```
